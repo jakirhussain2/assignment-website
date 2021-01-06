@@ -1,0 +1,147 @@
+.top-section1 {
+    padding-top: 88px;
+    padding-left: 188px;
+    float: left;
+}
+.name-color{
+    color: orange;
+}
+.top-section1 p{
+    font-size: 15px;
+}
+.top-anchor {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 43px;
+    color: white;
+    margin-top: 19px;
+    display: inline-block;
+    border-radius: 12px;
+}
+.top-section2 img {
+    height: 300px;
+    float: right;
+    padding-right: 285px;
+    padding-top: 83px;
+}
+.about-section{
+    height: 300px;
+}
+.about-img img {
+    height: 300px;
+    padding-top: 113px;
+    padding-left: 170px;
+}
+.about-text {
+    float: right;
+    width: 45%;
+    padding-right: 86px;
+    padding-top: 86px;
+}
+.about-img{
+    width: 40%;
+    float: left;
+    margin-right: 20px;
+}
+.work1{
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+}
+.work2{
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+ }
+ .work3{
+     width: 300px;
+    float: left;
+     
+ }
+ .work1 img {
+    width: 100%;
+    height: 300px;
+
+}
+.work2 img{
+    width: 100%;
+    height: 300px;
+    
+}
+.work3 img{
+    width: 100%;
+    height: 300px;
+}
+.work-section {
+    padding-top: 45px;
+    display: inline-block;
+    padding-left: 170px;
+}
+.work h2{
+    text-align: center;
+    font-weight: bold;
+}
+.work-style {
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.work h2{
+    text-transform: uppercase;
+}
+.text5 h2 {
+    z-index: 10;
+    position: relative;
+    float: left;
+    margin-left: 277px;
+    margin-top: 94px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+.middle{
+    padding-bottom: 150px;
+    padding-top: 150px;
+
+}
+.img5{
+    position: absolute;
+}
+.img5 img {
+    height: 200px;
+    padding-left: 226px;
+}
+.text5 a {
+    z-index: 10;
+    position: relative;
+    float: right;
+    margin-right: 271px;
+    margin-top: 86px;
+    text-transform: capitalize;
+}
+.footer{
+    padding-top: 200px;
+}
+.footer-text h3{
+      text-align: center;
+}
+.footer-text h2{
+    text-align: center;
+}
+.footer-img1{
+     width: 200px;
+     float: left;
+}
+.footer-img2{
+     width: 200px; 
+     float: left;
+}
+.footer-img3{
+    width: 200px;
+    float: left;
+}
+.footer-img {
+    padding-left: 369px;
+}
+
+
